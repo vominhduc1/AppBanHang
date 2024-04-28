@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Tủ lạnh Panasonic",
+      "price": 15000,
+      "quantity": "1",
+      "catId": 1,
+      "createAt": "2024-02-22",
+      "status": true,
+      "image": "images/images1.jpg"
+    },
+    {
+      "id": "P002",
+      "name": "Tivi LG",
+      "price": 10000,
+      "quantity": 20,
+      "catId": 1,
+      "createAt": "2023-12-20",
+      "status": false,
+      "image": "images/images2.jpg"
+    },
+    {
+      "id": "P003",
+      "name": "Macbook Pro 2024 M2",
+      "price": 35000,
+      "quantity": 15,
+      "catId": 2,
+      "createAt": "2024/01/10",
+      "status": true,
+      "image": "images/images3.jpg"
+    },
+    {
+      "id": "P005",
+      "name": "TV TCL 2",
+      "price": 52000,
+      "quantity": 2,
+      "catId": 2,
+      "createAt": "2024-04-27",
+      "status": false,
+      "image": "images/images5.jpg"
+    },
+    {
+      "id": "P004",
+      "name": "Tung Tung",
+      "price": 19000,
+      "quantity": 1,
+      "catId": 3,
+      "createAt": "2024-04-25",
+      "status": true,
+      "image": "images/images4.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Điện tử - Điện lạnh"
+    },
+    {
+      "id": "2",
+      "name": "Máy tính"
+    },
+    {
+      "id": "3",
+      "name": "Thiết bị mạng"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "dieuha@gmail.com",
+      "password": "123456",
+      "dob": "2003-08-08",
+      "gender": "female",
+      "role": "2"
+    },
+    {
+    "id": "1",
+      "email": "quynhanh@gmail.com",
+      "password": "123456",
+      "dob": "2003-08-08",
+      "gender": "female",
+      "role": "1"
+    }
+  ]
+}
